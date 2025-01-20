@@ -2,32 +2,53 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
-cctv1-高码http://13.251.121.250:35455/gaoma/cctv1.m3u8
-cctv2-高码http://13.251.121.250:35455/gaoma/cctv2.m3u8
-cctv3-高码http://13.251.121.250:35455/gaoma/cctv3.m3u8
-cctv4-高码http://13.251.121.250:35455/gaoma/cctv4.m3u8
-cctv5-高码http://13.251.121.250:35455/gaoma/cctv5.m3u8
-cctv5p-高码http://13.251.121.250:35455/gaoma/cctv5p.m3u8
-cctv7-高码http://13.251.121.250:35455/gaoma/cctv7.m3u8
-cctv8-高码http://13.251.121.250:35455/gaoma/cctv8.m3u8
-cctv9-高码http://13.251.121.250:35455/gaoma/cctv9.m3u8
-cctv10-高码http://13.251.121.250:35455/gaoma/cctv10.m3u8
-cctv11-高码http://13.251.121.250:35455/gaoma/cctv11.m3u8
-cctv12-高码http://13.251.121.250:35455/gaoma/cctv12.m3u8
-cctv13-高码http://13.251.121.250:35455/gaoma/cctv13.m3u8
-cctv14-高码http://13.251.121.250:35455/gaoma/cctv14.m3u8
-cctv15-高码http://13.251.121.250:35455/gaoma/cctv15.m3u8
-cctv16-高码http://13.251.121.250:35455/gaoma/cctv16.m3u8
-cctv164k_10mhttp://13.251.121.250:35455/gaoma/cctv4k16_10m.m3u8
-cctv164khttp://13.251.121.250:35455/gaoma/cctv4k16.m3u8cctv17-高码http://13.251.121.250:35455/gaoma/cctv17.m3u8
-cgtndochttp://13.251.121.250:35455/gaoma/cgtndoc.m3u8
-cgtnenhttp://13.251.121.250:35455/gaoma/cgtnen.m3u8
-cgtnfrhttp://13.251.121.250:35455/gaoma/cgtnfr.m3u8
-cgtnruhttp://13.251.121.250:35455/gaoma/cgtnru.m3u8
-cgtnsphttp://13.251.121.250:35455/gaoma/cgtnsp.m3u8
-重温经典https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-cctv4k_10mhttp://13.251.121.250:35455/gaoma/cctv4k_10m.m3u8
-cctv4khttp://13.251.121.250:35455/gaoma/cctv4k.m3u8
-北京纪实科教8Khttps://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-cctv8k_36mhttp://13.251.121.250:35455/gaoma/cctv8k_36m.m3u8
-cctv8k_120mhttp://13.251.121.250:35455/gaoma/cctv8k_120m.m3u8
+cctv-1,http://13.251.121.250:35455/gaoma/cctv1.m3u8
+cctv-2,http://13.251.121.250:35455/gaoma/cctv2.m3u8
+cctv-3,http://13.251.121.250:35455/gaoma/cctv3.m3u8
+cctv-4,http://13.251.121.250:35455/gaoma/cctv4.m3u8
+cctv-5,http://13.251.121.250:35455/gaoma/cctv5.m3u8
+cctv-5p,http://13.251.121.250:35455/gaoma/cctv5p.m3u8
+cctv-7,http://13.251.121.250:35455/gaoma/cctv7.m3u8
+cctv-8,http://13.251.121.250:35455/gaoma/cctv8.m3u8
+cctv-9,http://13.251.121.250:35455/gaoma/cctv9.m3u8
+cctv-10,http://13.251.121.250:35455/gaoma/cctv10.m3u8
+cctv-11,http://13.251.121.250:35455/gaoma/cctv11.m3u8
+cctv-12,http://13.251.121.250:35455/gaoma/cctv12.m3u8
+cctv-13,http://13.251.121.250:35455/gaoma/cctv13.m3u8
+cctv-14,http://13.251.121.250:35455/gaoma/cctv14.m3u8
+cctv-15,http://13.251.121.250:35455/gaoma/cctv15.m3u8
+cctv-16,http://13.251.121.250:35455/gaoma/cctv16.m3u8
+cctv-164k_10m,http://13.251.121.250:35455/gaoma/cctv4k16_10m.m3u8
+cctv-164k,http://13.251.121.250:35455/gaoma/cctv4k16.m3u8cctv17http://13.251.121.250:35455/gaoma/cctv17.m3u8
+cgtndoc,http://13.251.121.250:35455/gaoma/cgtndoc.m3u8
+cgtnen,http://13.251.121.250:35455/gaoma/cgtnen.m3u8
+cgtnfr,http://13.251.121.250:35455/gaoma/cgtnfr.m3u8
+cgtnru,http://13.251.121.250:35455/gaoma/cgtnru.m3u8
+cgtnsp,http://13.251.121.250:35455/gaoma/cgtnsp.m3u8
+重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+cctv-4k_10m,http://13.251.121.250:35455/gaoma/cctv4k_10m.m3u8
+cctv-4k,http://13.251.121.250:35455/gaoma/cctv4k.m3u8
+北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+cctv-8k_36m,http://13.251.121.250:35455/gaoma/cctv8k_36m.m3u8
+cctv-8k_120m,http://13.251.121.250:35455/gaoma/cctv8k_120m.m3u8
+
+CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV-2 财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV-3 综艺,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
+CCTV-4 中文国际,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-5 体育,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+ 体育赛事,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
+CCTV-6 电影,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7 国防军事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8 电视剧,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9 纪录,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10 科教,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
+CCTV-11 戏曲,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+CCTV-12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13 新闻,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV-14 少儿,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15 音乐,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
+CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
