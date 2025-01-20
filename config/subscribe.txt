@@ -2,6 +2,7 @@
 # This is a list of subscription sources, with one subscription address per line
 
 
+http://home.jundie.top:81/Cat/tv/live.txt
 http://47.120.41.246:8899/zb.txt
 https://live.kilvn.com/iptv.m3u
 http://175.178.251.183:6689/live.txt
