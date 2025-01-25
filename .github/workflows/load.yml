@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Set up Docker Buildx (optional for pull and run)
+    - name: Set up Docker Buildx (optional for pull 和 run)
       uses: docker/setup-buildx-action@v2
       # 注意：对于简单的 pull 和 run 操作来说，这一步可能是可选的
 
@@ -29,7 +29,7 @@ jobs:
     # 运行新容器的步骤
     # 注意：你需要根据镜像的实际需求来调整这里的运行命令
     - name: Run new container
-      run: docker run -d --name iptv-api-container -p 8080:80 guovern/iptv-api:latest
+      run: docker run -d --name iptv-api-container -p 8000:80 guovern/iptv-api:latest
       # -d 表示以守护进程模式运行容器
       # --name 指定容器的名称
       # -p 8000:80 将容器的 80 端口映射到主机的 8080 端口
