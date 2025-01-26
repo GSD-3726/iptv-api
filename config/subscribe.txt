@@ -1,7 +1,6 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-https://ghproxy.cc/https://github.com/Wirili/IPTV/blob/main/live.txt
-https://7337.kstore.space/twkj/tvzb.txt
+
 http://home.jundie.top:81/Cat/tv/live.txt
 http://47.120.41.246:8899/zb.txt
 https://live.kilvn.com/iptv.m3u
