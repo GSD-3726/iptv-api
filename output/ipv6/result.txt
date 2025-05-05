@@ -925,4 +925,4 @@ CCTV-5+,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/
 大时代,http://live.iill.top/yy.php?id=1354930891
 
 🕘️更新时间,#genre#
-2025-05-05 17:57:25,http://goo.bkpcp.top/mg/cctv1
+2025-05-05 18:24:30,http://goo.bkpcp.top/mg/cctv1
