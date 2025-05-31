@@ -54,9 +54,6 @@ https://github.com/extinside/IPTV/blob/main/live.txt
 https://github.com/skddyj/iptv/blob/main/IPTV.m3u
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
-
-
-
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
