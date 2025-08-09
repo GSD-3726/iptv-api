@@ -256,4 +256,4 @@ CCTV-5+,https://mursor.ottiptv.cc/migu/641886773.m3u8?migutoken=f3756a7fc7fdee44
 封神榜,http://www.clmy.cc:35455/yy/1353426319
 
 🕘️更新时间,#genre#
-2025-08-09 06:31:56,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=106324b7bddde5d8f239c47df286bfea78dc4414a28be116a9b6f8b16a7e1be989080ca6df45e2c3c7cbb8a73308c31710e9aa616a2f668c4f347d1673aa8e09eea0b54bbd518b8b98b66cbc63
+2025-08-09 18:30:54,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=106324b7bddde5d8f239c47df286bfea78dc4414a28be116a9b6f8b16a7e1be989080ca6df45e2c3c7cbb8a73308c31710e9aa616a2f668c4f347d1673aa8e09eea0b54bbd518b8b98b66cbc63
