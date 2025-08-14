@@ -168,12 +168,6 @@ CCTV-5+,https://mursor.ottiptv.cc/migu/641886773.m3u8?migutoken=4c75bded726403df
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 睛彩广场舞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 睛彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
-风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
-风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq#http://192.168.0.5:35455/rptv/G_FENGSHANGZQ-CQ.m3u8?license=gitv
-风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq#http://192.168.0.5:35455/rptv/G_FENGSHANGZQ-CQ.m3u8?license=gitv#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2140&tk=f6cc1e0a0e1a#http://183.11.239.36:808/hls/133/index.m3u8
 
 🪁动画频道,#genre#
 青春动漫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989
@@ -207,4 +201,4 @@ CCTV-5+,https://mursor.ottiptv.cc/migu/641886773.m3u8?migutoken=4c75bded726403df
 封神榜,http://www.clmy.cc:35455/yy/1353426319
 
 🕘️更新时间,#genre#
-2025-08-14 06:30:29,https://mursor.ottiptv.cc/gptv/G_CCTV-1-HD-265-8M.m3u8
+2025-08-14 18:30:42,https://mursor.ottiptv.cc/gptv/G_CCTV-1-HD-265-8M.m3u8
