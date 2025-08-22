@@ -2,7 +2,7 @@
 CCTV-1,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=b36f22456f6c86abac57d1d660bd5c03a1f6a2e89d5f76125005a6a86de23b6806f4d52b9b3bf38eb1f7d506f9a275d7139bcb9dbed59ce8d0bddbb0c98019430f4011d0235fa9b52ab6a0e2d7
 CCTV-1,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=14efc5ca4485767ce9cf063a5361a57df75cbf526000260c50add0495dd9cbbbc01dbd7e3a0aa92684bc5ce937ef45e7c2c44850e9621eafef1cae020b33c645e82efd794f4a2dccf1aba1944d
 CCTV-1,http://8.138.7.223/tv/dl/douyincdn.php?id=1
-CCTV-1,http://ygbh.site/php/bfgd.php?id=484
+CCTV-1,http://ygbh.site/php/bfgd.php?id=489
 CCTV-2,https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=8a7444eccaa31a5902dd8f98b7c84b51806123d72c579de7596943588af96f9ac4c686b28134846da3bd8d07efc04e9c75c450e8784c2a76ba613b3d2ebc6cfbd8277770c95a75ca8cd8facc84
 CCTV-2,https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=21d8a3cc47597e0e36cb2204303339076349da90f1e9a37418a2ddfbdef7a9730b46844c6291e89d7bb1948583d3ce0de12c699b17ed127c99ccebd8fb51c63e27f0562843db945d8307c60012
 CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
@@ -10,15 +10,14 @@ CCTV-2,http://8.138.7.223/tv/dl/douyincdn.php?id=2
 CCTV-3,https://mursor.ottiptv.cc/migu/624878271.m3u8?migutoken=a0289e4b38ab5ede9105610861faaf4cba6719215cd9e9baa4f10cbb4275efcfa1279953772faeec37f7ea4802c38d4f56d3730f154227bdd3542687c2234ea68347b6ecce3f9929071f0e678b
 CCTV-3,https://mursor.ottiptv.cc/migu/624878271.m3u8?migutoken=dd5c75650ab4fd2ee064c6f1c3006d64fd9903052194436845f02f9d62150359b66403a9b276d96c8b5759ff8785f93dd6d8d1a41a561afb2dce95bac7f7903b7c63802b544c32be8066b8aa64
 CCTV-3,http://8.138.7.223/tv/dl/douyincdn.php?id=3
-CCTV-3,http://223.105.252.60/PLTV/4/224/3221228237/index.m3u8
 CCTV-4,https://mursor.ottiptv.cc/migu/631780421.m3u8?migutoken=bb16dd2ce59b8beba6a53cd7f5fad31443bc8ade6448452a5e8626ed23cdc1b0daff44934b3fbb1695af960850c0778adb4bfe72d5baf8a8b8f8e2856750cc5d8e5cc5d71d39e9c8faf3693d38
 CCTV-4,https://mursor.ottiptv.cc/migu/631780421.m3u8?migutoken=2ac1214c412ac7f326d3a010fc961bfe17ab999f170d1f847cf76dd75aa4d388a12f4c9c389c701d6e95eb74fdfd4c28aacb97a893a3c63f94db2c2caa0ddaa57ea3c7805c512dec764e6dc617
 CCTV-4,http://8.138.7.223/tv/dl/douyincdn.php?id=4
 CCTV-5,https://mursor.ottiptv.cc/migu/641886683.m3u8?migutoken=f8ed77765df635a64c35cef87d22c42e0ca1f102e0093ffb8adcfcaa69b6c9459f346f80315a6dc6c39b08a7a3566608812e5c076aa1fad11d751e02d453af4112c6e576acd26771d5cd665c8e
 CCTV-5,https://mursor.ottiptv.cc/migu/641886683.m3u8?migutoken=04f248d653f649aa70e90421e92b62efae844360d0a5665d91fc3327c2272c567c4301b0d42d39924b7ec45fec8104f0444a6af634a3b0a7b4a289363abaaa07980c8dd35204fe688e353a94d8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
-CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
 CCTV-5,http://8.138.7.223/tv/dl/douyincdn.php?id=5
+CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
 CCTV-5+,https://mursor.ottiptv.cc/migu/641886773.m3u8?migutoken=0e57c40f7b7bdd3732b69918c43b2e835c623197bc5e9ea6600f4fde25d053f0ecdf49ecd987b73377017b73ea7e4dedebb51879881715890ad04d6ebfb75cd7620c6ef657f7a8a6679b0ca5d4
 CCTV-5+,https://mursor.ottiptv.cc/migu/641886773.m3u8?migutoken=3dcacca82db9368d7f91b79adfc3fe76ce1cd93c9792fb053243248fb8ef5792edfecb2a209259df5b93a59a2cf73a0614e3a48ab54157ca00c03d056cfd614c4db04b53aff71843e6be51bd2c
 CCTV-6,https://mursor.ottiptv.cc/migu/624878396.m3u8?migutoken=3dbf8cade5644323ce1abc3ca1b04551993fc872eed5cc85c796093726c949b59b7bca867e2a5bae6491bcde950b782742f85003fa2465c58e5970b61fa779aa3799a3daf8ebe4da82e058bddf
@@ -50,7 +49,6 @@ CCTV-14,http://8.138.7.223/tv/dl/douyincdn.php?id=14
 CCTV-15,https://mursor.ottiptv.cc/migu/673168223.m3u8?migutoken=3701537b624a81723f79ba8e157ae7afea0db3863735d41a8a7a38dba2a6d6f38d34eb38c1e422c96914ab3c58fd40af5b5bdb2b798a3c108bf5a700503e927b18dafbd50069e06f0d10c5f1b1
 CCTV-15,https://mursor.ottiptv.cc/migu/673168223.m3u8?migutoken=3c8f787ea2ffda93612dba30b26c79f1c327a392589ec4c474874ecc2601af7d4723013186bbe1cb7cd6bfc2172ca9da381429c24b688aa1d29f9958c79abf7c748d66b16d411790ac5861e1b3
 CCTV-15,http://8.138.7.223/tv/dl/douyincdn.php?id=15
-CCTV-16,http://223.105.252.60/PLTV/4/224/3221228320/index.m3u8
 CCTV-17,https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=6a52dec64658c59d13dd294d41dbb6b15a3879631da9dee30f6217c82b8563c4787522bdf44a394e63b23b8e68180889671b952e7c86f1a11fcd2b52d7a03ce1134e2eb34f8f74d961d1f343c7
 CCTV-17,https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=e024f48be5c4aa7bdc76ee07aa80a5ce77a46afd4573f9c2dcdddda97bd5d0aaaf5098edc7017901f24907cb6a943b1169a095675ceb83fcda3c24b4dd84055997c49ec82e40ff67c7a31d4fa4
 CCTV-17,http://8.138.7.223/tv/dl/douyincdn.php?id=16
@@ -84,7 +82,6 @@ CETV-4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=86b23c82fc20fd88d
 东南卫视,https://mursor.ottiptv.cc/migu/849116810.m3u8?migutoken=ffead1cd6485469784df823bda99a43798d91b2dad7fcab11cbcebc4e461075867c62ac5ba7e16a4e0367da4a0a10d0a75fb1fe73220f17dfd5ddbac6080e2bf8b40709833321b118c090a7c61
 东南卫视,https://mursor.ottiptv.cc/migu/849116810.m3u8?migutoken=94dc110588554ba67649b789f30a2c2d9178396650e0945e0d381ab83457a3f6217fee322d234d06398bf8f0a567d287cfb1702b628412fc60b93a875a5afeb2848a5faf8d7e2296d805ea8b01
 东南卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=22
-甘肃卫视,http://8.138.7.223/tv/dl/careryun.php?id=45
 广西卫视,http://8.138.7.223/tv/dl/careryun.php?id=40
 海南卫视,https://mursor.ottiptv.cc/migu/947472502.m3u8?migutoken=105d33ca2ce94d28a271b1da96b520f5dcc2489658b7ef64a675509b8ccd433461f0f42af65088606332ec75fd51c80554f3d9c9370d72c6f43faca9080c869bd0785f9b481e79186f7ebe2b9d
 海南卫视,https://mursor.ottiptv.cc/migu/947472502.m3u8?migutoken=9c44408e1bd77c91a0dc520b910b877dd4819e8bde43b671ec954869a45da24ed131e05f139e2083c9765ce2614c3272756069e7d8300e3cde8e4fe04ae9c621d012c3a7a31bacb3bd13e269aa
@@ -124,25 +121,23 @@ CHC动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 CHC高清电影,http://www.yao87.com:4022/udp/239.76.245.242:1234
 黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
 黑莓电影,http://36.105.100.208:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
-纬来电影,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
 纬来电影,http://iptv.4666888.xyz/iptv.php?id=20227
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 经典电影,http://lxajh.top/tv/douyu.php?id=74374
-天映经典,http://iptv.4666888.xyz/iptv.php?id=20114
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
+天映经典,http://iptv.4666888.xyz/iptv.php?id=20114
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 东森洋片,http://iptv.4666888.xyz/iptv.php?id=20212
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🎥咪咕直播,#genre#
 
 🏛经典剧场,#genre#
-笑傲江湖,https://lunbo.freetv.top/yy/1352833750
 天龙八部,https://mursor.ottiptv.cc/yy/1351814644
 鹿鼎记,https://mursor.ottiptv.cc/yy/1460463356
 鹿鼎记,https://mursor.ottiptv.cc/yy/1353852605
@@ -154,4 +149,4 @@ CHC高清电影,http://www.yao87.com:4022/udp/239.76.245.242:1234
 上海滩,https://mursor.ottiptv.cc/yy/1382745184
 
 🕘️更新时间,#genre#
-2025-08-22 06:23:30,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=b36f22456f6c86abac57d1d660bd5c03a1f6a2e89d5f76125005a6a86de23b6806f4d52b9b3bf38eb1f7d506f9a275d7139bcb9dbed59ce8d0bddbb0c98019430f4011d0235fa9b52ab6a0e2d7
+2025-08-22 18:21:57,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=b36f22456f6c86abac57d1d660bd5c03a1f6a2e89d5f76125005a6a86de23b6806f4d52b9b3bf38eb1f7d506f9a275d7139bcb9dbed59ce8d0bddbb0c98019430f4011d0235fa9b52ab6a0e2d7
