@@ -1,6 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+https://gh-proxy.com/https://github.com/GSD-3726/congenial-doodle/blob/acc63079aabef694b277387b246f059aee59cbdb/cctv_channels.m3u
 https://sub.ottiptv.cc/iptv.m3u
 https://sub.ottiptv.cc/huyayqk.m3u
 https://sub.ottiptv.cc/douyuyqk.m3u
