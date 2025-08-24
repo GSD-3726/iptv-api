@@ -8,9 +8,9 @@ CCTV-2,https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=8a7444eccaa31a590
 CCTV-2,https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=21d8a3cc47597e0e36cb2204303339076349da90f1e9a37418a2ddfbdef7a9730b46844c6291e89d7bb1948583d3ce0de12c699b17ed127c99ccebd8fb51c63e27f0562843db945d8307c60012
 CCTV-2,https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=ef5e11a14ec5d6307e91a2066dd751bd02e35d4b0379dc81a911e2b3babd2e494de11c6353b12cbfdcc3ab81678dd36fee916ac3235c9f80a14ba6e4571ca46d43e097ba29325b68457672dac6
 CCTV-2,https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=7dad0391b8799742c1b131bbaf7b4c452c75ea578dc7303bd38ad7962bc967219af005afaf6febe2411b350a0ee0189e333839dacfe3a1a4982df8675f096c77ff9b8d11efb0f73ebc04827367
-CCTV-2,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
 CCTV-2,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+CCTV-2,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
 CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 CCTV-2,http://8.138.7.223/tv/dl/douyincdn.php?id=2
 CCTV-3,https://mursor.ottiptv.cc/migu/624878271.m3u8?migutoken=a0289e4b38ab5ede9105610861faaf4cba6719215cd9e9baa4f10cbb4275efcfa1279953772faeec37f7ea4802c38d4f56d3730f154227bdd3542687c2234ea68347b6ecce3f9929071f0e678b
@@ -24,8 +24,8 @@ CCTV-4,https://mursor.ottiptv.cc/migu/631780421.m3u8?migutoken=bb16dd2ce59b8beba
 CCTV-4,https://mursor.ottiptv.cc/migu/631780421.m3u8?migutoken=2ac1214c412ac7f326d3a010fc961bfe17ab999f170d1f847cf76dd75aa4d388a12f4c9c389c701d6e95eb74fdfd4c28aacb97a893a3c63f94db2c2caa0ddaa57ea3c7805c512dec764e6dc617
 CCTV-4,https://mursor.ottiptv.cc/migu/631780421.m3u8?migutoken=7a2d3707743839b41a5a442c9b20890b85ef5944f317ceccaa3265176e4e2299b4990324cb27a64dcf511c02020657a6f3b762889769ffc22375be2b86c27ca8870e600245438d14d3754ac8ed
 CCTV-4,https://mursor.ottiptv.cc/migu/631780421.m3u8?migutoken=414ed756b992936a48e2cdd74844531b97d7501c805b210427c652645da216cbb8a8f9bad991a363354e9a93d984e782ff3be4bd9e281a660ab2fa13288b8e3a2ee2b1bc44ce6388f4ac8d5eae
-CCTV-4,http://php.cqshushu.ggff.net/jzb.php?id=cctv5&公众号【医工学习日志】
 CCTV-4,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+CCTV-4,http://php.cqshushu.ggff.net/jzb.php?id=cctv5&公众号【医工学习日志】
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://8.138.7.223/tv/dl/douyincdn.php?id=4
 CCTV-5,https://mursor.ottiptv.cc/migu/641886683.m3u8?migutoken=f8ed77765df635a64c35cef87d22c42e0ca1f102e0093ffb8adcfcaa69b6c9459f346f80315a6dc6c39b08a7a3566608812e5c076aa1fad11d751e02d453af4112c6e576acd26771d5cd665c8e
@@ -48,21 +48,21 @@ CCTV-6,http://php.cqshushu.ggff.net/jzb.php?id=cctv6&公众号【医工学习日
 CCTV-6,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
 CCTV-6,http://8.138.7.223/tv/dl/careryun.php?id=9
 CCTV-7,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
-CCTV-7,http://php.cqshushu.ggff.net/jzb.php?id=cctv7&公众号【医工学习日志】
 CCTV-7,http://8.138.7.223/tv/dl/douyincdn.php?id=7
+CCTV-7,http://php.cqshushu.ggff.net/jzb.php?id=cctv7&公众号【医工学习日志】
 CCTV-8,https://mursor.ottiptv.cc/migu/624878356.m3u8?migutoken=ca10dd30cd7245e0185ba3b32764666fa08ce01487637de21b92f786a61a580af17a02c9def26d011adaba8c5eda7817156aaede9f4f6aafabf9a93cb54556f45e3f48be681a4858ee785e4cf3
 CCTV-8,https://mursor.ottiptv.cc/migu/624878356.m3u8?migutoken=8a3ee85b54d83db0660b318228c0c29faeeb35b76dbaf0ab9293e25b569c2ddd336e8ebd96232265ea6e8f71cbcead6c7264608b3b12ed7f859afe764d7225b5894d107535a3e0e5a1099926cd
 CCTV-8,https://mursor.ottiptv.cc/migu/624878356.m3u8?migutoken=b8b17c1552838e73c1105aeb90ad27455b2fdbe460bdece6e230b9f4c00b47d107be0f372fb2cdccc8e5a530c4ddae803700067b932aa2169085c05eab9ec17ed46918d77d6e1769b092ad1f26
 CCTV-8,https://mursor.ottiptv.cc/migu/624878356.m3u8?migutoken=791b05d37d7fc46eb98e7b2e9a7e388accebb8851eadd80e53cca03967a68ddc5376ac7ffb529083d9bf4983e9bb5cafd064529878e30566594655e98fc2399e4acbdf567b3b7b4f7d5efc415b
-CCTV-8,http://php.cqshushu.ggff.net/jzb.php?id=cctv8&公众号【医工学习日志】
 CCTV-8,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
+CCTV-8,http://php.cqshushu.ggff.net/jzb.php?id=cctv8&公众号【医工学习日志】
 CCTV-8,http://8.138.7.223/tv/dl/careryun.php?id=11
 CCTV-9,https://mursor.ottiptv.cc/migu/673168140.m3u8?migutoken=8b7414b219acf7a60af9b72223609dc9f80dc1963e590ea5ce2e5a3907b365675e66241d5a6ea93ca6cf06c3bac8fb82a9860ad7df1a33e86f9b0bfd2007badec508f0ac9b3509495b709a566c
 CCTV-9,https://mursor.ottiptv.cc/migu/673168140.m3u8?migutoken=bbbfdddc1fc0cfe5e6291993402bd047aa785d72fa0f3a5edc4dd43a28ec23ca4f4a2d9eee2b1c96b999bd9fe561957e64a82064520d944a5a11ffab65359ec17e6d716c9ec4fbffb95f808993
 CCTV-9,https://mursor.ottiptv.cc/migu/673168140.m3u8?migutoken=195f72c873106cb1f8846289dd5de4585789c397adc9bd9ae693e219ad6aaf63a534d522e6a6c1d74745d2fdb5c3f6face2ea3958ed694f58a1ca1c80dd9138f020da2ad19113f8214f62584fb
 CCTV-9,https://mursor.ottiptv.cc/migu/673168140.m3u8?migutoken=90f114d53c8087ba657052f6306590c0c0823703dd53c12e2806a5a298df459414afb266e583ad5b00e226a6cda4fc61f43ebec62ed59a746016b76f1bec4b31955629fce082fc0d974a19e8ca
-CCTV-9,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
 CCTV-9,http://php.cqshushu.ggff.net/jzb.php?id=cctv9&公众号【医工学习日志】
+CCTV-9,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
 CCTV-10,https://mursor.ottiptv.cc/migu/624878405.m3u8?migutoken=6afb24872d55a68faccf3a582492f8554273c8d73608096daffb4570f560b8f3991e436a103ebcd5ec68b1a5b33359779c23aece87590e9c8bceaa53eac7605e1bd85d64f114af4c32465cff32
 CCTV-10,https://mursor.ottiptv.cc/migu/624878405.m3u8?migutoken=b46db1c078352426c417dbd4141184529d7496576a28686de6fba5cc7804064cc4c469dde1b00f79ae4353c0d9858a5202cc1fb8dc69e63b7d9436d79c2d6f766bebdf7063e7097686c0f14e0f
 CCTV-10,https://mursor.ottiptv.cc/migu/624878405.m3u8?migutoken=f6b29231d98115093a9a400175f3f73c11fe7751ea627217921d960381495b5286fbeb432aab34ebdbd4f76d1f4076f02c5d308e504b0969ecedc12cd52363c19699ea025fa39246630b065b9f
@@ -91,8 +91,8 @@ CCTV-14,https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=76ba714e77b386b7
 CCTV-14,https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=893d594914d51b29a1541346689c72137d91ae5da1549714e8dc533bf29c1e612be2f08c7647002662324a74997015d866dd075f416bdedc57ce45c5584be9029cb754534283df0a3a6fee7d65
 CCTV-14,https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=306f9edfb32ef947c1ba66adf5a470a501a2f15429c933fb921143b464c0538c2bfed46299ac3ddad46d62ff39f8ae3d14b3fff0e66737c7707e81e69ec62e5aaa91e49a00615803381807f53e
 CCTV-14,https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=de3554d3afe2ad9c1fb3adc4bda3b40a26f523cbab725fcf82e8b83d5379369e52e8d6db8ba48f65c45dfa7f4df34a4962cf58fcb6c6d150cb5a461e925daa8574ba47509b9721005ce5b6e02f
-CCTV-14,http://8.138.7.223/tv/dl/douyincdn.php?id=14
 CCTV-14,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
+CCTV-14,http://8.138.7.223/tv/dl/douyincdn.php?id=14
 CCTV-15,https://mursor.ottiptv.cc/migu/673168223.m3u8?migutoken=3701537b624a81723f79ba8e157ae7afea0db3863735d41a8a7a38dba2a6d6f38d34eb38c1e422c96914ab3c58fd40af5b5bdb2b798a3c108bf5a700503e927b18dafbd50069e06f0d10c5f1b1
 CCTV-15,https://mursor.ottiptv.cc/migu/673168223.m3u8?migutoken=3c8f787ea2ffda93612dba30b26c79f1c327a392589ec4c474874ecc2601af7d4723013186bbe1cb7cd6bfc2172ca9da381429c24b688aa1d29f9958c79abf7c748d66b16d411790ac5861e1b3
 CCTV-15,https://mursor.ottiptv.cc/migu/673168223.m3u8?migutoken=f8c6bf12ef65c7f3aa25967446393835b97b1695c0b55bc1ffba4f826ff031169603b9a93114db1e4b29bce626519374a587d62710337ec65b321c964d7773edb9ba31a7685870d71753073118
@@ -135,8 +135,8 @@ CETV-4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=4d725ac8658e69ff9
 湖北卫视,https://mursor.ottiptv.cc/migu/947472496.m3u8?migutoken=17b8e20caa7f4ebdb2c8073c399c7b6211e8b326ce5d821ab5a64d621952fe8701a28fc01729149dc9324d3832c2772df1add08a106a54dfb25118ade0eb848313cad45ddd8f6dd327b8764a36
 湖北卫视,https://mursor.ottiptv.cc/migu/947472496.m3u8?migutoken=01c443d6f5e75c6c3497de17c5e8978bb4f3a1a985ad57c41c0d87849b1f389c50e48e7086b5bade18c90dea8775ab3f27b8cd4c2709d8f66f67d389a1c95ec3a242a01c55f2fff1f0ed71c83e
 湖北卫视,https://mursor.ottiptv.cc/migu/947472496.m3u8?migutoken=bcdd282263cf507ea522f2adc6748cebe0bb6a9ff7f6e7df411d47322a93542e019ec848a34d08340f3e3e36a19bec2f070a23be90bdaab5a8e8f34a7a0e7e98c40a9adca8c7fc0188feb9e467
-湖北卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=25
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
+湖北卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=25
 黑龙江卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
 黑龙江卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=29
 重庆卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
@@ -185,6 +185,8 @@ CETV-4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=4d725ac8658e69ff9
 江西卫视,https://mursor.ottiptv.cc/migu/783847495.m3u8?migutoken=d1c92c3ec369ef80c74798bb34080fe4e357fe1886ef62ac8e8eae696d0430df55e81adae5e034f8019911a8340b252614f9397bdb1c518159ec6a7c46439a78a9500d5c223f9c9a647662c31f
 江西卫视,https://mursor.ottiptv.cc/migu/783847495.m3u8?migutoken=a178590b47eb2ff5c21875fd049d5f5b9867f45b6735c1612670ca0bc8a58523f658ce03e5486aa53a5374c4017b329331f8ba3dc294ca8da8bd6f0def5a28ec05dc02fb7bde919db0a22be300
 辽宁卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
+内蒙古卫视,http://113.26.202.52:1299/tsfile/live/0109_1.m3u8
+宁夏卫视,http://zqh2333.top:2222/rtp/239.93.24.247:5140?key=txiptv
 青海卫视,https://mursor.ottiptv.cc/migu/947472506.m3u8?migutoken=def111a9eefcf1e478e44c549852d512ed32dc98b694a2cf41e31e90a9f12672d2fffeba9e26aae940a05429aaae583801e376ff3752f8c5eca4ffd72ef713a269dc67af5d2dd55f802cdb42c0
 青海卫视,https://mursor.ottiptv.cc/migu/947472506.m3u8?migutoken=8320978baefbe215fcae44339e706a535faee011c6e1e1fb31b2d2d2ec8d06313567d6c27a3fce68efd93d477f85fe4591a8464f5ff02e42c9c6857953dd754c9bf67e9eb4e055ccb84b8d2c54
 青海卫视,https://mursor.ottiptv.cc/migu/947472506.m3u8?migutoken=e645fbf423242e4601b3037f7f824c13f5bfd4c458a0227ece7ed8ab9ba0d70da1f19a16a9c6967ca0b454127b42630122c1789c6380ab1c8062a0fd280e3d935bc6fba742e4ac33a1b07e1450
@@ -195,6 +197,7 @@ CETV-4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=4d725ac8658e69ff9
 陕西卫视,https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=df3f3e7ee67b077441dd655cf13dc3883b644baec26b44c0d313baf53c6ca6c9f1f5db19f3352efdbf8727b5315fc92a635f87b9afc5016d2b2cc9fbb71209aeb0a85d8697902c9f83646f3102
 陕西卫视,https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=a2d4e19b9b5e498daccd376a558937d31f27210bffc02a30dc2896fb7dbf192bf1b61e39fa5abcaa2bb2f8bba5487cc6ca3015c60a68c07b44a3aa70fc65041b7895548b1aab798cc1c3a9db8e
 陕西卫视,https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=00c418aab7ce8c238ab71691669a113b1b3876ad6f4f58e028a8dc5b67fbe653768c4ba410aadb5286e3358ad5f52cb889ffe1e313dc92788f552750e16312ecf6cff55dddeaf922b265b93bed
+陕西卫视,http://219.146.95.58:59902/tsfile/live/0136_1.m3u8?txiptv
 四川卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
 四川卫视,http://8.138.7.223/tv/dl/careryun.php?id=35
 深圳卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
@@ -229,12 +232,15 @@ CHC高清电影,http://www.yao87.com:4022/udp/239.76.245.242:1234
 东森电影,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvmovie
 龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
+东森超视,rtmp://f13h.mine.nu:1935/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 
 🎥咪咕直播,#genre#
 
 🏛经典剧场,#genre#
+笑傲江湖,https://alimov2.a.kwimgs.com/upic/2023/03/07/20/BMjAyMzAzMDcyMDMyNDdfNjE2NzgxMTQwXzk3NzEzNDY4NjgxXzBfMw==_b_B75baa98fedb7da382eb4a29e5f7df2bf.mp4
+笑傲江湖,https://lunbo.freetv.top/yy/1352833750
 天龙八部,https://mursor.ottiptv.cc/yy/1351814644
 鹿鼎记,https://mursor.ottiptv.cc/yy/1460463356
 鹿鼎记,https://mursor.ottiptv.cc/yy/1353852605
@@ -245,4 +251,4 @@ CHC高清电影,http://www.yao87.com:4022/udp/239.76.245.242:1234
 上海滩,https://mursor.ottiptv.cc/yy/1382745184
 
 🕘️更新时间,#genre#
-2025-08-24 18:24:31,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=b36f22456f6c86abac57d1d660bd5c03a1f6a2e89d5f76125005a6a86de23b6806f4d52b9b3bf38eb1f7d506f9a275d7139bcb9dbed59ce8d0bddbb0c98019430f4011d0235fa9b52ab6a0e2d7
+2025-08-25 06:24:34,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=b36f22456f6c86abac57d1d660bd5c03a1f6a2e89d5f76125005a6a86de23b6806f4d52b9b3bf38eb1f7d506f9a275d7139bcb9dbed59ce8d0bddbb0c98019430f4011d0235fa9b52ab6a0e2d7
