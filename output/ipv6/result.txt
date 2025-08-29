@@ -51,4 +51,4 @@ CHC动作电影,https://migu.188766.xyz/?migutoken=5f7ddbc144aaa6a046ced38913096
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-08-29 18:51:08,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-08-30 06:42:00,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
