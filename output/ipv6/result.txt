@@ -44,10 +44,11 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 CHC动作电影,https://migu.188766.xyz/?migutoken=5f7ddbc144aaa6a046ced38913096c20&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 天映经典,https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy
+无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 
 🎥咪咕直播,#genre#
 
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-08-30 18:40:34,https://stream.iptv-search.com/main.php?id=CCTV1&t=1753977057&token=efbe25b882a5c6d5c004d10709bd8607
+2025-08-31 06:37:51,https://stream.iptv-search.com/main.php?id=CCTV1&t=1753977057&token=efbe25b882a5c6d5c004d10709bd8607

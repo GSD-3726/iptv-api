@@ -32,10 +32,9 @@ CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
 CCTV-15,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
 CCTV-15,http://121.60.56.116:10001/rtp/239.69.1.155:10566
 CCTV-15,http://8.138.7.223/tv/dl/douyincdn.php?id=15
-CCTV-16,http://121.60.56.116:10001/rtp/239.69.1.247:11124
 CCTV-16,http://61.149.251.202:4022/rtp/239.3.1.184:8001
+CCTV-16,http://121.60.56.116:10001/rtp/239.69.1.247:11124
 CCTV-16,http://58.48.104.196:4022/rtp/239.69.1.247:11124
-CCTV-16,http://222.129.32.255:4022/rtp/239.3.1.184:8001
 CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 CCTV-17,http://58.48.104.196:4022/rtp/239.69.1.152:10548
 CCTV-17,http://8.138.7.223/tv/dl/douyincdn.php?id=16
@@ -56,8 +55,8 @@ CCTV-17,http://8.138.7.223/tv/dl/douyincdn.php?id=16
 广西卫视,http://8.138.7.223/tv/dl/careryun.php?id=40
 海南卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=24
 河北卫视,http://8.138.7.223/tv/dl/careryun.php?id=34
-河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 吉林卫视,http://8.138.7.223/tv/dl/careryun.php?id=41
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
 江苏卫视,http://8.138.7.223/tv/dl/careryun.php?id=23
@@ -73,13 +72,16 @@ CHC高清电影,http://www.yao87.com:4022/udp/239.76.245.242:1234
 NewTV动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
 黑莓电影,http://36.105.100.208:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+纬来电影,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 经典电影,http://lxajh.top/tv/douyu.php?id=74374
+IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
+龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
@@ -91,4 +93,4 @@ NewTV动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 
 🕘️更新时间,#genre#
-2025-08-30 18:40:34,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+2025-08-31 06:37:51,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
