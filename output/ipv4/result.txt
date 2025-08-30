@@ -7,21 +7,18 @@ CCTV-3,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
 CCTV-3,http://8.138.7.223/tv/dl/douyincdn.php?id=3
 CCTV-4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
 CCTV-4,http://61.149.251.202:4022/rtp/239.3.1.105:8092
-CCTV-4,http://222.129.32.255:4022/rtp/239.3.1.105:8092
 CCTV-4,http://121.60.56.116:10001/rtp/239.69.1.138:10466
 CCTV-4,http://8.138.7.223/tv/dl/douyincdn.php?id=4
 CCTV-5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
-CCTV-5,http://222.129.32.255:4022/rtp/239.3.1.173:8001
 CCTV-5,http://61.149.251.202:4022/rtp/239.3.1.173:8001
-CCTV-5,http://121.60.56.116:10001/rtp/239.69.1.123:10376
 CCTV-5,http://8.138.7.223/tv/dl/douyincdn.php?id=5
+CCTV-5,http://121.60.56.116:10001/rtp/239.69.1.123:10376
 CCTV-5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
 CCTV-6,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv6
 CCTV-6,http://8.138.7.223/tv/dl/careryun.php?id=9
 CCTV-7,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
 CCTV-7,http://8.138.7.223/tv/dl/douyincdn.php?id=7
 CCTV-8,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv8
-CCTV-8,http://222.129.32.255:4022/rtp/239.3.1.175:8001
 CCTV-8,http://8.138.7.223/tv/dl/careryun.php?id=11
 CCTV-10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
 CCTV-10,http://8.138.7.223/tv/dl/douyincdn.php?id=10
@@ -35,20 +32,19 @@ CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
 CCTV-15,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
 CCTV-15,http://121.60.56.116:10001/rtp/239.69.1.155:10566
 CCTV-15,http://8.138.7.223/tv/dl/douyincdn.php?id=15
-CCTV-16,http://61.149.251.202:4022/rtp/239.3.1.184:8001
 CCTV-16,http://121.60.56.116:10001/rtp/239.69.1.247:11124
-CCTV-16,http://222.129.32.255:4022/rtp/239.3.1.184:8001
+CCTV-16,http://61.149.251.202:4022/rtp/239.3.1.184:8001
 CCTV-16,http://58.48.104.196:4022/rtp/239.69.1.247:11124
+CCTV-16,http://222.129.32.255:4022/rtp/239.3.1.184:8001
 CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 CCTV-17,http://58.48.104.196:4022/rtp/239.69.1.152:10548
-CCTV-17,http://222.129.32.255:4022/rtp/239.3.1.151:8144
 CCTV-17,http://8.138.7.223/tv/dl/douyincdn.php?id=16
 
 📡卫视频道,#genre#
 广东卫视,http://8.138.7.223/tv/dl/careryun.php?id=27
 浙江卫视,http://8.138.7.223/tv/dl/careryun.php?id=22
-湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 湖南卫视,http://8.138.7.223/tv/dl/careryun.php?id=21
+湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 北京卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=17
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 湖北卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=25
@@ -60,8 +56,8 @@ CCTV-17,http://8.138.7.223/tv/dl/douyincdn.php?id=16
 广西卫视,http://8.138.7.223/tv/dl/careryun.php?id=40
 海南卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=24
 河北卫视,http://8.138.7.223/tv/dl/careryun.php?id=34
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://8.138.7.223/tv/dl/careryun.php?id=41
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
 江苏卫视,http://8.138.7.223/tv/dl/careryun.php?id=23
@@ -74,7 +70,6 @@ CCTV-17,http://8.138.7.223/tv/dl/douyincdn.php?id=16
 
 🎬电影频道,#genre#
 CHC高清电影,http://www.yao87.com:4022/udp/239.76.245.242:1234
-NewTV动作电影,http://43.138.0.72:35455/yy/1382736823
 NewTV动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
 黑莓电影,http://36.105.100.208:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
@@ -96,4 +91,4 @@ NewTV动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 
 🕘️更新时间,#genre#
-2025-08-30 06:42:00,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+2025-08-30 18:40:34,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1

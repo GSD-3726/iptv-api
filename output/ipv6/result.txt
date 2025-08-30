@@ -1,7 +1,5 @@
 📺央视频道,#genre#
-CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-1,https://stream.iptv-search.com/main.php?id=CCTV1&t=1753977057&token=efbe25b882a5c6d5c004d10709bd8607
-CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV-2,https://stream.iptv-search.com/main.php?id=CCTV2&t=1753977057&token=8cbf58f098fc5d1e1d4255b0afa1cd9e
 CCTV-3,https://stream.iptv-search.com/main.php?id=CCTV3&t=1753977057&token=bd990127bd0c3f7e6607bd7dc10192e7
 CCTV-4,https://stream.iptv-search.com/main.php?id=CCTV4%281080p%29&t=1753977057&token=90f4c5df55430bd8786cf1b057a34c32
@@ -44,6 +42,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 
 🎬电影频道,#genre#
 CHC动作电影,https://migu.188766.xyz/?migutoken=5f7ddbc144aaa6a046ced38913096c20&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
+纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 天映经典,https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy
 
 🎥咪咕直播,#genre#
@@ -51,4 +50,4 @@ CHC动作电影,https://migu.188766.xyz/?migutoken=5f7ddbc144aaa6a046ced38913096
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-08-30 06:42:00,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-08-30 18:40:34,https://stream.iptv-search.com/main.php?id=CCTV1&t=1753977057&token=efbe25b882a5c6d5c004d10709bd8607
