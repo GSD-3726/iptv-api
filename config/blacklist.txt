@@ -3,4 +3,3 @@
 /audio/
 https://mursor.ottiptv.cc
 http://api.kkitv.itv888.cn
-https://stream.iptv-search.com/main.php?id=CCTV1&t=1753977057&token=efbe25b882a5c6d5c004d10709bd8607
