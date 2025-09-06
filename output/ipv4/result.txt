@@ -2,8 +2,10 @@
 CCTV-4,http://121.60.56.116:10001/rtp/239.69.1.138:10466
 CCTV-5,http://61.149.251.202:4022/rtp/239.3.1.173:8001
 CCTV-5,http://121.60.56.116:10001/rtp/239.69.1.123:10376
+CCTV-6,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/1000/index.m3u8?msisdn=202509060600395ee45b56c6ba4366a3dbd80bd2d9a9ad&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20250906060039&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=106.13.250.90&SecurityKey=20250906060039&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c77f3a9283b4e8902cda3821d24d89fe&ddCalcu=ecf7v97a8fbd3a4a29d218238b34aed8c920&sv=10004&ct=android
 CCTV-15,http://121.60.56.116:10001/rtp/239.69.1.155:10566
 CCTV-16,http://121.60.56.116:10001/rtp/239.69.1.247:11124
+CETV-2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=20250906060043434d9c80f9784252a251a3a43a8a4267&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20250906060043&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.90&SecurityKey=20250906060043&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e590b1a7bcaa5c0ff393eba145c143a9&ddCalcu=9ea5v39a40a1bac15a471bacbaea359c30ff&sv=10004&ct=android
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
@@ -13,19 +15,9 @@ CCTV-16,http://121.60.56.116:10001/rtp/239.69.1.247:11124
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-山西卫视,http://112.27.235.94:8000/hls/45/index.m3u8
-山西卫视,http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://cssbyd.imwork.net:8082/hls/43/index.m3u8
-山西卫视,http://36.136.38.87:9901/tsfile/live/0118_1.m3u8
-山西卫视,http://111.43.126.240:9003/hls/61/index.m3u8
 山西卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.150:11111
-山西卫视,http://222.169.85.8:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
-山西卫视,http://111.227.196.164:9901/tsfile/live/0118_1.m3u8
-山西卫视,http://sh.lnott.top:880/dx39.m3u8
-山西卫视,http://hbhyjq.ufyct.com:1088/hls/35/index.m3u8
-山西卫视,http://nas.hssvm.com:8888/udp/225.1.1.50:5002
-山西卫视,http://60.174.40.117:85/tsfile/live/0118_1.m3u8?key=txiptv
+山西卫视,http://221.2.148.205:8154/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227172/index.m3u8
 
 🎬电影频道,#genre#
@@ -61,4 +53,4 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 
 🕘️更新时间,#genre#
-2025-09-06 06:53:26,http://121.60.56.116:10001/rtp/239.69.1.138:10466
+2025-09-06 08:21:46,http://121.60.56.116:10001/rtp/239.69.1.138:10466
