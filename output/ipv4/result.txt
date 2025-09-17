@@ -283,6 +283,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 广东卫视,http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20250913060035c7be306505854280bc85f54c373e6efd&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20250913060035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.90&SecurityKey=20250913060035&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=59877d3474f0e895e2b71b6250424669&ddCalcu=9569e6814782704d03542764bf107eb829e5
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
+湖南卫视,http://171.118.77.166:9003/hls/33/index.m3u8
 湖北卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?msisdn=2025090609003237ca49159b8e45488e2270b5e613e048&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20250906090032&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.83&SecurityKey=20250906090032&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f7f2af6125978d7ed3f7d0c91c84d927&ddCalcu=7f27v9fad2y4aa8fc61192c509d778fd37de&sv=10004&ct=android
 湖北卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?msisdn=20250906150028edc8546c0cb844c48238e2af5d0b95c2&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20250906150028&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.88&SecurityKey=20250906150028&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9c1604764f394e9076a020d8e120e9b3&ddCalcu=39bcv91ae6y00a2417e684df032904ae6970&sv=10004&ct=android
 湖北卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?msisdn=202509070600301a35751c05334f65b35b1a01427e0e0a&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20250907060030&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.90&SecurityKey=20250907060030&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1cfe580eec34606aa471fa4e225b96a5&ddCalcu=51acv6fa9eyb5a58202eee4ca3f4167046aa&sv=10004&ct=android
@@ -399,9 +400,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://218.241.192.50:8808/rtp/239.3.1.209:8052
 山东卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.50:11111
-山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
 山东卫视,http://nas.hssvm.com:8888/udp/225.1.1.148:5002
-山东卫视,http://120.76.248.139/live/bfgd/4200000099.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 山西卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.150:11111
 陕西卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/shan3xiws/50/20220809/index.m3u8?msisdn=202509060900327c9553e26a5149958eecdc0f6ea267f4&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20250906090032&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=106.13.250.83&SecurityKey=20250906090032&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f5ca737fda87347b2945ada9a3b49a4e&ddCalcu=ef45vaca9ak47ab337af9daad8a75344972b&sv=10004&ct=android
@@ -423,14 +422,15 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 天津卫视,http://nas.hssvm.com:8888/udp/225.1.1.111:5002
 
 🎬电影频道,#genre#
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
+NewTV动作电影,http://43.138.0.72:35455/yy/1382736823
 NewTV动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
 纬来电影,http://iptv.4666888.xyz/iptv.php?id=20227
@@ -451,4 +451,4 @@ NewTV动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 
 🕘️更新时间,#genre#
-2025-09-17 06:41:02,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=2025090609003197ebb37038c44e67a4a5c3485bbbd6fa&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20250906090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.83&SecurityKey=20250906090031&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0913c5f2a006db950f1b2bc4120b587d&ddCalcu=d079v81a53ybca052f124ac0b026bd1bf905&sv=10004&ct=android
+2025-09-17 17:47:41,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=2025090609003197ebb37038c44e67a4a5c3485bbbd6fa&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20250906090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.83&SecurityKey=20250906090031&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0913c5f2a006db950f1b2bc4120b587d&ddCalcu=d079v81a53ybca052f124ac0b026bd1bf905&sv=10004&ct=android
